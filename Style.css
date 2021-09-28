@@ -1,0 +1,48 @@
+.heading{ background-color: yellow;
+padding: 2rem;
+display: inline-block
+}
+
+textarea {
+    border: 2px solid black;
+    width: 60%;
+    height: 15vh;
+    display: block;
+    padding: 1rem;
+    margin: 2rem;
+    font-size: 25px;
+}
+
+
+#output {
+    border: 2px solid black;
+    width: 60%;
+    height: 15vh;
+    padding: 1rem;
+    margin: 2rem;}
+
+
+::placeholder {font-size: 0.6cm;
+    font-weight: bold;
+   }
+    
+           
+#btn-translate {
+    text-align: right;
+    margin: 1rem;
+    padding: 0.5rem 1.2rem;
+    font-size: larger;
+    font-weight: bold;
+    background-color: yellow;
+    display: block;
+    
+}
+
+.output-heading {
+    font-size: 0.7cm;
+    margin: 1.5rem;
+    padding: 1rem;
+    font-weight: bold;
+    background-color: yellowgreen;
+    display: inline-block;
+}
