@@ -10,7 +10,7 @@ textarea {
     display: block;
     padding: 1rem;
     margin: 2rem;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
@@ -18,23 +18,26 @@ textarea {
     border: 2px solid black;
     width: 60%;
     height: 15vh;
+    display: block;
     padding: 1rem;
-    margin: 2rem;}
+    margin: 2rem;
+    font-size: 20px;}
 
 
-::placeholder {font-size: 0.6cm;
+::placeholder {font-size: 1.5rem;
     font-weight: bold;
    }
     
            
 #btn-translate {
     text-align: right;
-    margin: 1rem;
+    margin: 1rem 3rem;
     padding: 0.5rem 1.2rem;
     font-size: larger;
     font-weight: bold;
     background-color: yellow;
     display: block;
+    cursor: pointer;
     
 }
 
